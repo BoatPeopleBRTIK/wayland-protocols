@@ -1,3 +1,9 @@
+wayland-protocols (1.10-1ubuntu1) xenial; urgency=medium
+
+  * Release xenial
+
+ -- Chanho Park <chanho61.park@samsung.com>  Fri, 11 Aug 2017 13:36:56 +0900
+
 wayland-protocols (1.10-1) unstable; urgency=medium
 
   * Team upload
